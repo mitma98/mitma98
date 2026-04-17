@@ -1,16 +1,18 @@
-## Hi there 👋
+## Helloooo!👋
+I'm Mithma, a data science enthusiast based in the UK.
 
-<!--
-**mitma98/mitma98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐍 Natural Pythonista who enjoys working across data analysis, machine learning, and building projects that (hopefully) matter.
 
-Here are some ideas to get you started:
+💡 If an idea sticks, chances are I’ll try to turn it into something real.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Currently learning Agentic and Generative AI.
+
+📚 BSc in Computer Science + MSc in Data Science, with 2 years of experience as a Software Engineer and Associate Data Scientist.
+
+📫 Open to data science opportunities and always up for collaborating on interesting ideas.
+
+### Fun facts:
+* 🍥 Naruto is my favourite anime.
+* 🌊 Beach girl; I love diving.
+* 💌 I make cute apps for my loved ones (lowkey, private projects).
+* 🎨 Hobbies: anime, cooking, reading, building things.
