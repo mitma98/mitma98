@@ -1,7 +1,7 @@
 ## Helloooo!👋
 I'm Mithma, a data science enthusiast based in the UK.
 
-🐍 Natural Pythonista who enjoys working across data analysis, machine learning, and building projects that (hopefully) matter.
+🐍 Natural Pythonista who enjoys working across data analysis, machine learning, and building projects that matter.
 
 💡 If an idea sticks, chances are I’ll try to turn it into something real.
 
