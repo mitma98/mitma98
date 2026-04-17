@@ -14,5 +14,5 @@ I'm Mithma, a data science enthusiast based in the UK.
 ### Fun facts:
 * 🍥 Naruto is my favourite anime.
 * 🌊 Beach girl; I love diving.
-* 💌 I make cute apps for my loved ones (lowkey, private projects).
+* 💌 I make cute apps for my loved ones (private projects).
 * 🎨 Hobbies: anime, cooking, reading, building things.
